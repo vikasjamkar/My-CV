@@ -160,8 +160,8 @@ main{
 #home{
 	height: 100vh;
 	width: 100%;
-	/* background-color: #494D5F; */
-	background-image:url('../images/back8.jpg');
+	 background-color: #494D5F;
+	/* background-image:url('../images/back8.jpg'); */
 	background-attachment: fixed;
 	display: flex;
 	justify-content: center;
