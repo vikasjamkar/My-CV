@@ -160,8 +160,8 @@ main{
 #home{
 	height: 100vh;
 	width: 100%;
-
-	background-image:url('../images/back7.jfif');
+	background-color: #525252;
+	background-image:url('../images/back4.avif');
 	background-attachment: fixed;
 	display: flex;
 	justify-content: center;
@@ -173,7 +173,7 @@ main{
 }
 @media only screen and (min-width:390px){
 	#home{
-		background-image: url('../images/back2.avif');
+		background-image: url('../images/back7.avif');
 		height: 100vh;
 		width: 100%;
 		background-position: center;
